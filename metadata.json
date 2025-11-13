@@ -1,0 +1,5 @@
+{
+  "name": "Culinary Assistant",
+  "description": "An AI-powered smart fridge and culinary assistant. Snap a photo of your fridge, and get personalized recipe suggestions with step-by-step cooking instructions and a shopping list feature.",
+  "requestFramePermissions": []
+}
